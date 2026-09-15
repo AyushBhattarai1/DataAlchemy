@@ -1,0 +1,8 @@
+sale_id,customer_id,product_category,quantity,unit_price,total_amount,order_date,is_discounted
+S1001,CUST-1001,Electronics,2,299.99,599.98,2024-03-01 14:30:00,False
+S1002,CUST-1002,Clothing,3,45.50,122.85,2024-03-02 09:15:22,True
+S1003,CUST-1004,Home & Garden,1,120.00,120.00,2024-03-02 18:45:10,False
+S1004,CUST-1003,Electronics,1,850.00,765.00,2024-03-03 11:20:05,True
+S1005,CUST-1006,Beauty,4,22.75,91.00,2024-03-04 16:05:40,False
+S1006,CUST-1005,Clothing,,35.00,,2024-03-05 10:12:00,False
+S1007,CUST-1007,Electronics,2,450.00,900.00,2024-03-05 17:50:33,False

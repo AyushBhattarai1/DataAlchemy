@@ -1,0 +1,47 @@
+[
+  {
+    "transaction_id": "8fa21e56-54a8-4e50-93cb-986c7e3f0001",
+    "account_id": "ACC-5001",
+    "amount": 142.50,
+    "currency": "USD",
+    "merchant": "TechStore Online",
+    "timestamp": "2024-03-01T08:14:22Z",
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "8fa21e56-54a8-4e50-93cb-986c7e3f0002",
+    "account_id": "ACC-5002",
+    "amount": 12.99,
+    "currency": "USD",
+    "merchant": "Coffee Bean Cafe",
+    "timestamp": "2024-03-01T09:30:11Z",
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "8fa21e56-54a8-4e50-93cb-986c7e3f0003",
+    "account_id": "ACC-5003",
+    "amount": 2500.00,
+    "currency": "EUR",
+    "merchant": "Luxury Watches Ltd",
+    "timestamp": "2024-03-01T12:45:00Z",
+    "is_fraud": true
+  },
+  {
+    "transaction_id": "8fa21e56-54a8-4e50-93cb-986c7e3f0004",
+    "account_id": "ACC-5001",
+    "amount": 65.20,
+    "currency": "USD",
+    "merchant": "City Supermarket",
+    "timestamp": "2024-03-02T15:22:45Z",
+    "is_fraud": false
+  },
+  {
+    "transaction_id": "8fa21e56-54a8-4e50-93cb-986c7e3f0005",
+    "account_id": "ACC-5004",
+    "amount": 340.00,
+    "currency": "USD",
+    "merchant": "Airlines Direct",
+    "timestamp": "2024-03-02T19:05:10Z",
+    "is_fraud": false
+  }
+]

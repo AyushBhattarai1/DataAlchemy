@@ -1,0 +1,9 @@
+customer_id,name,age,annual_income,city,signup_date,is_active
+CUST-1001,Alice Johnson,34,75000.0,New York,2023-01-15,True
+CUST-1002,Bob Smith,45,62000.5,Chicago,2022-11-20,False
+CUST-1003,Charlie Brown,,89000.0,Austin,2023-05-10,True
+CUST-1004,Diana Prince,29,115000.0,Seattle,2024-02-01,True
+CUST-1005,Evan Wright,52,,Denver,2021-08-19,False
+CUST-1006,Fiona Gallagher,24,48000.0,Boston,2023-12-04,True
+CUST-1002,Bob Smith,45,62000.5,Chicago,2022-11-20,False
+CUST-1007,George Clark,61,93000.0,San Francisco,2020-03-25,False
